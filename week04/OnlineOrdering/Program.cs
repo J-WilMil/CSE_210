@@ -24,4 +24,4 @@ class Program
             Console.WriteLine($"Total Cost: ${order.GetTotalCost():F2}\n");
         }
     }
-}
+};
